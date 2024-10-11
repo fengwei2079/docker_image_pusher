@@ -4,3 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 nginx:latest
+centos:latest
