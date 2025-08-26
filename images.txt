@@ -1,3 +1,4 @@
 #支持私库
 nginx:latest
 centos:latest
+tomcat:9.0.108-jdk8-corretto-al2
