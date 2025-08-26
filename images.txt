@@ -3,3 +3,4 @@ nginx:latest
 centos:latest
 tomcat:latest
 centos:7
+redis:latest
