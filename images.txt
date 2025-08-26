@@ -2,3 +2,5 @@
 nginx:latest
 centos:latest
 tomcat:latest
+flannel-cni-plugin:sha256-fa4749909ed22921a6710496f6462ca300848222c084327fb2e83133e14378e1
+flannel-cni-plugin:latest
